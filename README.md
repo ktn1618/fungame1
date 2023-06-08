@@ -14,21 +14,21 @@ SQL, HTML, JavaScript, REST API,
 The Matrix 
 
 ## The different types of characters
-Karen
-Morpheous - NPC - need to get quote via API
-Neo and Trinity - NPC 
+Karen<br/>
+Morpheous - NPC - need to get quote via API<br/>
+Neo and Trinity - NPC<br/>
 
 
 ## An overview of the story
 
-Screen 1: Karen is a fetus and Morpheous asks her to take red pill or blue pill (fetch self-developed API for conversation content)
-          Karen took Red Pill - and Morpheous say Welcome to Reality 
-Screen 2: (down) Karen fall down to reality in the ship
-Screen 2: (static) Karen in the spaceship and this is where she must train - choosing skills, education and certs (static page)
-Screen 2: (static) Karen needs to go into the Matrix
-Screen 3: (down) Red woman in Kimono (Bosch Japan) recruiter > get Karen to work there and climb the mount Fuji (left-right)
-Screen 4: (down) then The agent in VN - SPS (left-right) and Yes4All 
-Screen 5: (down) then meet Neo and Trinity (Germany) AY working in commerce
+Screen 1: Karen is a fetus and Morpheous asks her to take red pill or blue pill (fetch self-developed API for conversation content)<br/>
+          Karen took Red Pill - and Morpheous say Welcome to Reality<br/>
+Screen 2: (down) Karen fall down to reality in the ship<br/>
+Screen 2: (static) Karen in the spaceship and this is where she must train - choosing skills, education and certs (static page)<br/>
+Screen 2: (static) Karen needs to go into the Matrix<br/>
+Screen 3: (down) Red woman in Kimono (Bosch Japan) recruiter > get Karen to work there and climb the mount Fuji (left-right)<br/>
+Screen 4: (down) then The agent in VN - SPS (left-right) and Yes4All <br/>
+Screen 5: (down) then meet Neo and Trinity (Germany) AY working in commerce<br/>
 
 
 
